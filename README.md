@@ -12,5 +12,5 @@ note, which project make you send me a coffee, the more coffee, make the project
 ### 微信
 <img src="./wechat/ruandao.JPG" alt="支付宝" width="200"/>
 
-### [PayPal 目前还没用过](https://www.paypal.me/ruandao?locale.x=zh_XC)
+### [PayPal 点击链接转账](https://www.paypal.me/ruandao?locale.x=zh_XC)
 
